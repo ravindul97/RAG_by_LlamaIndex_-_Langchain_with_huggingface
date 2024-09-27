@@ -1,2 +1,2 @@
-# RAG_by_LlamaIndex_-_Langchain_with_huggingface
+# RAG_by_LlamaIndex_&_Langchain_with_huggingface
 RAG_by_LlamaIndex_&amp;_Langchain_with_huggingface
